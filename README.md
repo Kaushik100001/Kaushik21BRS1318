@@ -1,8 +1,6 @@
 # Turn-Based Board Game
 
-## Overview
 
-This project is a turn-based board game implemented with a React frontend and a Node.js backend using WebSocket for real-time communication. The game features a 5x5 board where two players (A and B) can move their pieces and track the move history.
 
 ## Features
 
@@ -14,10 +12,7 @@ This project is a turn-based board game implemented with a React frontend and a 
 
 ## Getting Started
 
-### Prerequisites
 
-- Node.js and npm installed
-- Basic knowledge of React and WebSocket
 
 ### Frontend Setup
 
